@@ -9,7 +9,7 @@
 <p align="left">
 📍 Tehran, Iran
 <br>
-⏳ 16 years old
+⏳ 17 years old
 <br>
 👨🏻‍💻 Front End Developer
 <br>
@@ -17,4 +17,5 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,git,github,js,ts,react,next,mongo&perline=6)](https://github.com/M7a1s)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,git,js,ts,react,redux,next,mongo,&perline=6)](https://github.com/M7a1s)
+
