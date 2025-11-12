@@ -12,10 +12,5 @@
 ⏳ 17 years old
 <br>
 👨🏻‍💻 Front End Developer
-<br>
-📚 Almost done with my learning journey
-</p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,git,js,ts,react,redux,next,mongo,&perline=6)](https://github.com/M7a1s)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,styledcomponents,emotion,git,github,js,ts,react,redux,next,prisma,mongo,postgres,vitest&perline=6)](https://github.com/M7a1s)
