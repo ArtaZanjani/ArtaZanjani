@@ -11,6 +11,6 @@
 <br>
 ⏳ 17 years old
 <br>
-👨🏻‍💻 Front End Developer
+👨🏻‍💻 Front-End Developer
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,styledcomponents,emotion,git,github,js,ts,react,redux,next,prisma,mongo,postgres,vitest&perline=6)](https://github.com/M7a1s)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,styledcomponents,emotion,git,github,js,ts,react,redux,next,prisma,mongo,postgres,jest,vitest&perline=6)](https://github.com/ArtaZanjani)
